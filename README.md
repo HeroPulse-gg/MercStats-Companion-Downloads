@@ -9,8 +9,8 @@ Open the [latest release](https://github.com/HeroPulse-gg/MercStats-Companion-Do
 | Platform | Release asset |
 | --- | --- |
 | Windows 10/11 (x64) | `MercStats-Companion-Setup-win-x64.exe` |
-| macOS Apple silicon | `MercStats-Companion-osx-arm64.dmg` |
-| macOS Intel | `MercStats-Companion-osx-x64.dmg` |
+| macOS Apple silicon | Coming soon: `MercStats-Companion-osx-arm64.dmg` |
+| macOS Intel | Coming soon: `MercStats-Companion-osx-x64.dmg` |
 | Linux (x64) | `MercStats-Companion-linux-x64.tar.gz` |
 
 The website at [MercStats.com/companion](https://mercstats.com/companion) automatically recommends the right package and always links to the newest release.
